@@ -1,0 +1,14 @@
+
+.container{
+    display: flex;
+   padding: 3px;
+   margin: 2px;
+
+    
+    }
+    .image{
+        border: 5px solid white;
+        background-color: lightseagreen;
+        text-align: center;
+        border-radius: 10px;
+    }
